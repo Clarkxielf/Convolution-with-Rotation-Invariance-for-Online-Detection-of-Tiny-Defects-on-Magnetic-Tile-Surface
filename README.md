@@ -1,0 +1,1 @@
+# Convolution-with-Rotation-Invariance-for-Online-Detection-of-Tiny-Defects-on-Magnetic-Tile-Surface
